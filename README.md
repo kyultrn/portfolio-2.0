@@ -114,44 +114,4 @@ const firebaseConfig = {
 
 ```html
 <!-- Social Media Previews -->
-    <!-- Primary Meta Tags -->
-    <title>Andy Luo, Full Stack Developer</title>
-    <meta name="title" content="Andy Luo, Full Stack Developer">
-    <meta name="description" content="Full Stack Developer and Freelance Photographer based in Toronto, passionate about building web applications, learning new technologies, traveling and exploring new places.">
-
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://andy8647.com/">
-    <meta property="og:title" content="Andy Luo, Full Stack Developer">
-    <meta property="og:description" content="Full Stack Developer and Freelance Photographer based in Toronto, passionate about building web applications, learning new technologies, traveling and exploring new places.">
-    <meta property="og:image" content="https://andy8647.com/website.jpg">
-
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://andy8647.com/">
-    <meta property="twitter:title" content="Andy Luo, Full Stack Developer">
-    <meta property="twitter:description" content="Full Stack Developer and Freelance Photographer based in Toronto, passionate about building web applications, learning new technologies, traveling and exploring new places.">
-    <meta property="twitter:image" content="https://andy8647.com/website.jpg">
-```
-
-
-### 6. Deployment
-
-I recommend using [Netlify](https://www.netlify.com/) for deployment. It's free and easy to use. You can follow the instructions [here](https://docs.netlify.com/site-deploys/create-deploys/#deploy-with-git) to deploy your site.
-
-P.S. If you are using Netlify, to resolved the bug from `react-router-dom`, you need to add a `_redirects` file in the `public` folder and add the following code:
-
-```
-/*    /index.html   200
-```
-
----
-
-And you're done!
-
-If you have any questions or issues with the setup process, feel free to contact me by any of the means below:
-
-[Twitter](https://twitter.com/Andy8647L) | andy8647lgc@gmail.com
-
-Finally, thanks to the original author [paytonjewell](https://github.com/paytonjewell) for the well built template.
- -->
+ 
